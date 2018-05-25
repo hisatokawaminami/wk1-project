@@ -1,6 +1,6 @@
 img.hisato {
-  height: 200px;
-  width: 200px;
+  height: 300px;
+  width: 300px;
   float: right;
   border-radius: 50%
 }
@@ -24,5 +24,11 @@ body {
 }
 
 .sidebar {
-  height: 50%;
+  background-color: #0DF7C9;
+}
+
+.jumbotron {
+  background-color: #0D9EF7;
+  text-align: center;
+  font-family: sans-serif;
 }

@@ -24,12 +24,12 @@ _Please email me at hisatokawaminami@gmail.com if you find bugs._
 
 ## Technologies Used
 
-_HTML_
-_CSS_
-_BOOTSTRAP_
+* _HTML_
+* _CSS_
+* _BOOTSTRAP_
 
 ### License
 
 *This is licensed under the MIT license.*
 
-Copyright (c) 2018 **_Austin Barr and Hisato Kawaminami_**
+Copyright (c) 2018 **_Hisato Kawaminami_**
