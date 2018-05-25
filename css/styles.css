@@ -10,7 +10,16 @@ h2 {
   font-weight: bold;
   font-size: 30px;
   text-decoration: underline;
+}
 
+h3 {
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+}
+
+p {
+  font-style: oblique;
 }
 
 p2 {
@@ -26,12 +35,23 @@ body {
 }
 
 .sidebar {
-  background-color: #EBF4FA;
-  
+  background-color: #B8CDDB;
+
+
 }
 
 .jumbotron {
   background-color: #0D9EF7;
   text-align: center;
   font-family: sans-serif;
+}
+a {
+    line-height: 40px;
+    font-size: 20px;
+}
+
+.why-box {
+  margin: 10px;
+  border: 5px solid blue;
+  padding: 10px;
 }
