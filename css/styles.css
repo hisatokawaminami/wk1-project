@@ -22,6 +22,18 @@ p {
   font-style: oblique;
 }
 
+p.red {
+  color: red;
+
+}
+
+p.red .yellow {
+  color: yellow;
+  font-weight: bold;
+  font-size: 20px;
+
+}
+
 p2 {
   font-style: italic;
 }
@@ -52,6 +64,6 @@ a {
 
 .why-box {
   margin: 10px;
-  border: 5px solid blue;
+  border: 20px double blue;
   padding: 10px;
 }
