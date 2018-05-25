@@ -7,6 +7,7 @@
 ## Description
 
 _This HTML was created for the weekly project at Epicodus_
+
 [Click here](https://hisatokawaminami.github.io/wk1-project/) for a quick peek
 
 ## Setup/Installation Requirements
